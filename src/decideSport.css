@@ -1,0 +1,13 @@
+.decide-sport-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.snowflake-wrapper {
+  background-color: grey;
+}
+.sun-wrapper {
+  background-color: lightblue;
+}
